@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on The Odin Project & CS50.<br>✨ Aspiring Software Engineer.<br>🪐 HTML/CSS, Javascript, Java.<br>💫 UoB Student, Year in Compsci.
+🔭 Working on The Odin Project & CS50.<br>✨ Aspiring Software Engineer.<br>🪐 HTML/CSS, Javascript, Java, C.<br>💫 UoB Student, Year in Compsci.
 
 # 🪐 The Odin Project:
 
