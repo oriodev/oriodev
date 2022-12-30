@@ -3,9 +3,9 @@
 
 # 🪐 The Odin Project:
 
-1. [JS Rock, Paper, Scissors GUI Game](https://github.com/oriodev/rockpaperscissors)
-2. [JS Etch-a-Sketch GUI](https://github.com/oriodev/etch-a-sketch)
-3. [JS Calculator GUI](https://github.com/oriodev/myveryfunctionalcalculator)
+1. [JS Rock, Paper, Scissors](https://github.com/oriodev/rockpaperscissors)
+2. [JS Etch-a-Sketch](https://github.com/oriodev/etch-a-sketch)
+3. [JS Calculator](https://github.com/oriodev/myveryfunctionalcalculator)
 4. WIP! [HTML/CSS Admin Dashboard](https://github.com/oriodev/admindash)
 5. [HTML/CSS Form Mockup](https://github.com/oriodev/mockupform)
 
