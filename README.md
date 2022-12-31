@@ -6,7 +6,7 @@
 1. [JS Rock, Paper, Scissors](https://github.com/oriodev/rockpaperscissors)
 2. [JS Etch-a-Sketch](https://github.com/oriodev/etch-a-sketch)
 3. [JS Calculator](https://github.com/oriodev/myveryfunctionalcalculator)
-4. [HTML/CSS Admin Dashboard](https://github.com/oriodev/admindash)
+4. [HTML/CSS Admin Dashboard](https://oriodev.github.io/admindashboard/)
 5. [HTML/CSS Form Mockup](https://github.com/oriodev/mockupform)
 
 # 🪴 CS50:
