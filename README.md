@@ -8,7 +8,7 @@
 3. [JS Calculator](https://github.com/oriodev/myveryfunctionalcalculator)
 4. [HTML/CSS Admin Dashboard](https://github.com/oriodev/admindashboard)
 5. [HTML/CSS Form Mockup](https://github.com/oriodev/mockupform)
-6. WIP! [JS Tic Tac Toe](https://github.com/oriodev/tictactoe)
+6. [JS Tic Tac Toe](https://github.com/oriodev/tictactoe)
 
 # 🪴 CS50:
 
