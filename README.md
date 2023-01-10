@@ -9,6 +9,7 @@
 4. [HTML/CSS Admin Dashboard](https://github.com/oriodev/admindashboard)
 5. [HTML/CSS Form Mockup](https://github.com/oriodev/mockupform)
 6. [JS Tic Tac Toe](https://github.com/oriodev/tictactoe)
+7. [JS/Webpack Restaurant Webpage](https://github.com/oriodev/restaurantpage)
 
 # 🪴 CS50:
 
