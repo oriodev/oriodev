@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on Programming Languages A & Fullstack Open.<br>✨ Aspiring Software Engineer.<br>🪐 Javascript/React/NodeJS/Express, Python/Flask, Java, C.<br>💫 UoB Student, Year in Compsci.
+🔭 Working on [Programming Languages A](https://www.coursera.org/learn/programming-languages) & [Fullstack Open](https://fullstackopen.com/en/).<br>✨ Aspiring Software Engineer.<br>🪐 Javascript/React/NodeJS/Express, Python/Flask, Java, C.<br>💫 UoB Student, Year in Compsci.
 
 # 🪐 The Odin Project:
 
