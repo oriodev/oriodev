@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Learning React & Next JS.
+🔭 Solo: Learning React & Next JS. 
+<br>🔭 Uni: Learning Python.
 <br>✨ Aspiring Software Engineer/Project Manager.
 <br>🪐 Javascript/MERN/Next-JS, Python/Flask, Java, C.
 <br>💫 UoB Student, Year in Compsci.
