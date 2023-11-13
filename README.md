@@ -12,7 +12,7 @@
 1. [Submitted Work](https://github.com/code50/93719767)
 2. **[Final Project: MusicBox](https://github.com/oriodev/musicbox)**
 
-# 🪴 Fullstack Open:
+# 🌙 Fullstack Open:
 1. [Parts 0-6](https://github.com/oriodev/fullstackopen)
 
 # 🪐 The Odin Project:
