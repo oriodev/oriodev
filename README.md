@@ -5,10 +5,6 @@
 <br>🪐 Javascript/MERN/Next-JS, Python/Flask, Java, C.
 <br>💫 UoB Student, Year in Compsci.
 
-# 🔭 Tutorial Projects:
-1. [Next-Js Todo App](https://github.com/oriodev/next-todo) -> [Web Dev Simplified](https://www.youtube.com/watch?v=NgayZAuTgwM)
-2. [Next-JS Threads Clone](https://github.com/oriodev/next-threads) -> [JavascriptMastery](https://www.youtube.com/watch?v=O5cmLDVTgAs)
-
 # 🪴 Fullstack Open:
 1. [Parts 0-6](https://github.com/oriodev/fullstackopen)
 
