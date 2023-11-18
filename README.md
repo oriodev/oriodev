@@ -5,12 +5,12 @@
 <br>💫 UoB Student, Year in Compsci.
 
 # 🛸 Personal Projects:
-1. [Album Tracker](https://github.com/oriodev/albumz)
+1. [Album Tracker](https://github.com/oriodev/albumz): a react/express/postgresql project.
 
 # 🪴 CS50:
 
 1. [Submitted Work](https://github.com/code50/93719767)
-2. **[Final Project: MusicBox](https://github.com/oriodev/musicbox)**
+2. **[Final Project: MusicBox](https://github.com/oriodev/musicbox)**: a python/flask project w/ spotify api.
 
 # 🌙 Fullstack Open:
 1. [Parts 0-6](https://github.com/oriodev/fullstackopen)
