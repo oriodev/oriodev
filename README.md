@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Learning React (for fun) and Python (for university).
 <br>✨ Aspiring Software Engineer/Project Manager.
-<br>🪐 Javascript/React/MERN, Python/Flask, Java, C.
+<br>🪐 Javascript/React, Node.js/Express/PostgreSql, Python/Flask, Java, C.
 <br>💫 UoB Student, Year in Compsci.
 
 # 🛸 Personal Projects:
