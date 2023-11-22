@@ -5,7 +5,7 @@
 <br>💫 UoB Student, Year in Compsci.
 
 # 🛸 Personal Projects:
-1. [Album Tracker](https://github.com/oriodev/albumz): a react/express/postgresql project.
+1. [Album Tracker](https://github.com/oriodev/album-archive): a react/redux/express/postgresql/material-ui project.
 
 # 🪴 CS50:
 
