@@ -1,11 +1,11 @@
 # 💫 About Me:
 🔭 Learning React (for fun) and Python (for university).
-<br>✨ Aspiring Software Engineer/Project Manager.
-<br>🪐 Javascript/React, Node.js/Express/PostgreSql, Python/Flask, Java, C.
+<br>✨ Aspiring Software Engineer.
+<br>🪐 Javascript/React/Next.js, Node.js/Express/PostgreSql, Python/Flask, Java, C.
 <br>💫 UoB Student, Year in Compsci.
 
 # 🛸 Personal Projects:
-1. [Album Tracker](https://github.com/oriodev/album-archive): a react/redux/express/postgresql/material-ui project.
+1. [Album Tracker](https://github.com/oriodev/album-archive): a react/next.js/express/postgresql/tailwind/shadcn project.
 
 # 🪴 CS50:
 
