@@ -5,7 +5,7 @@
 <br>💫 UoB Student, Year in Compsci.
 
 # 🛸 Personal Projects:
-1. [Album Tracker](https://github.com/oriodev/album-archive): a react/next.js/express/postgresql/tailwind/shadcn project.
+1. [Album Tracker](https://github.com/oriodev/album-archive): a next.js/shadcn project.
 
 # 🪴 CS50:
 
