@@ -2,7 +2,7 @@
 🔭 Learning React (for fun) and Python (for university).
 <br>✨ Aspiring Software Engineer.
 <br>🪐 Javascript/React/Next.js, Node.js/Express/PostgreSql, Python/Flask, Java, C.
-<br>💫 UoB Student, Year in Compsci.
+<br>💫 UoB Student, Anthropology & Computer Science.
 
 # 🛸 Personal Projects:
 1. [Spotify Clone](https://github.com/oriodev/spotify-clone): following a [Code with Antonio](https://www.youtube.com/watch?v=2aeMRB8LL4o) tutorial.
