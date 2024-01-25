@@ -5,7 +5,8 @@
 <br>💫 UoB Student, Year in Compsci.
 
 # 🛸 Personal Projects:
-1. [Album Tracker](https://github.com/oriodev/album-archive): a next.js/shadcn project.
+1. [Spotify Clone](https://github.com/oriodev/spotify-clone): following a [Code with Antonio](https://www.youtube.com/watch?v=2aeMRB8LL4o) tutorial.
+2. [Album Tracker](https://github.com/oriodev/album-archive): a next.js/shadcn project (IN PROGRESS).
 
 # 🪴 CS50:
 
