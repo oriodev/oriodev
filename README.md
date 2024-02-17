@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Learning React (for fun) and Python (for university).
 <br>✨ Aspiring Software Engineer.
-<br>🪐 Javascript/React/Next.js, Node.js/Express/PostgreSql, Python/Flask, Java, C.
+<br>🪐 Javascript/Typescript/React/Next.js, Node.js/Express/PostgreSql, Python/Flask.
 <br>💫 UoB Student, Anthropology & Computer Science.
 <br>⚡️ Frontend Development Summer Intership @ TodayTix Group.
 
