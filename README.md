@@ -5,8 +5,7 @@
 <br>⚡️ Frontend Development Summer Intership @ TodayTix Group.
 
 # 🌕 Personal Projects:
-1. [Spotify Clone](https://github.com/oriodev/spotify-clone): following a [Code with Antonio](https://www.youtube.com/watch?v=2aeMRB8LL4o) tutorial.
-2. [Album Tracker](https://github.com/oriodev/album-archive): a next.js/shadcn project (IN PROGRESS).
+1. [Bucket List App](https://github.com/oriodev/bucketlistapp): a next.js/shadcn project built in 5 hours.
 
 # 🌗 University Projects:
 1. [Flask Projects](https://github.com/oriodev/flask-projects): flask projects for a web dev 101 course.
