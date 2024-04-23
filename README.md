@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 Learning React (for fun) and Python (for university).
-<br>🪐 Javascript/Typescript/React/Next.js, Node.js/Express/PostgreSql, Python/Flask.
+🔭 Intermediate React/Next.js developer.
+<br>🪐 Javascript/Typescript, React/Next.js, Node.js/Express, Postgres/Prisma, Python/Flask.
 <br>💫 UoB Student, Anthropology & Computer Science.
 <br>⚡️ Frontend Development Summer Intership @ TodayTix Group.
 
@@ -21,5 +21,3 @@
 8. [The Odin Project: HTML/CSS Admin Dashboard](https://github.com/oriodev/admindashboard)
 9. [The Odin Project: HTML/CSS Form Mockup](https://github.com/oriodev/mockupform)
 10. [The Odin Project: JS/Webpack Restaurant Webpage](https://github.com/oriodev/restaurantpage)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
