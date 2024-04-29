@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Intermediate React/Next.js developer.
 <br>🪐 Javascript/Typescript, React/Next.js, Node.js/Express, Postgres/Prisma, Python/Flask.
-<br>💫 UoB Student, Anthropology & Computer Science.
+<br>💫 University of Birmingham, Anthropology & Computer Science.
 <br>⚡️ Frontend Development Summer Intership @ TodayTix Group.
 
 # 🌕 Personal Projects:
