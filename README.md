@@ -5,7 +5,7 @@
 <br>⚡️ Frontend Development Summer Intership @ TodayTix Group.
 
 # 🌕 Personal Projects:
-1. [Calcifer](https://github.com/oriodev/calcifer): a next.js project with authentication. current wip, live deployment available to check out [here](https://www.calcifergame.com/).
+1. **[Calcifer](https://github.com/oriodev/calcifer):** a next.js project with authentication. current wip, live deployment available to check out [here](https://www.calcifergame.com/).
 2. [Bucket List App](https://github.com/oriodev/bucketlistapp): a next.js/shadcn project built in 5 hours.
 
 # 🌗 University Projects:
