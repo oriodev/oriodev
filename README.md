@@ -1,10 +1,13 @@
 # 🌱 about me:
-☘️ intermediate react developer.</br>
+🎃 intermediate react developer.</br>
 🍂 js/typescript, react/next.js, node.js/express, postgres/prisma.</br>
-🍃 final yr student @ university of birmingham; anthropology & computer science.</br>
-🍁 frontend dev intern @ todaytix group (summer 2024).</br>
+🍄 final yr student @ university of birmingham; anthropology & computer science.</br>
+🍁 currently taking meta's **principles of UX design** and **intro to android development** courses.
 
-# 🌱 personal projects:
+# 🌕 industry experience:
+1. frontend dev intern @ todaytix group (summer 2024).</br>
+
+# 🌖 personal projects:
 1. **[calcifer](https://github.com/oriodev/calcifer):** a next.js project with authentication and basic social capabilities. current wip, live deployment available to check out [here](https://www.calcifergame.com/).
 2. [bucket list app](https://github.com/oriodev/bucketlistapp): a next.js/shadcn project built in 5 hours.
 
@@ -13,7 +16,7 @@
 
 # 🌑 self-learning:
 1. **[cs50 final project: musicbox](https://github.com/oriodev/musicbox)**: a python/flask project w/ spotify api.
-2. [cs50 Submitted Work](https://github.com/code50/93719767)
+2. [cs50 submitted work](https://github.com/code50/93719767)
 3. [fullstack open parts 0-6](https://github.com/oriodev/fullstackopen)
 4. [the odin project: js rock, paper, scissors](https://github.com/oriodev/rockpaperscissors)
 5. [the odin project: js etch-a-sketch](https://github.com/oriodev/etch-a-sketch)
