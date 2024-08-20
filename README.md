@@ -10,6 +10,7 @@
 # 🌖 personal projects:
 1. **[calcifer](https://github.com/oriodev/calcifer):** a next.js project with authentication and basic social capabilities. current wip, live deployment available to check out [here](https://www.calcifergame.com/).
 2. [bucket list app](https://github.com/oriodev/bucketlistapp): a next.js/shadcn project built in 5 hours.
+3. [bakery delivery app](https://github.com/oriodev/oribebaking/tree/main): a next.js project designed in figma.
 
 # 🌗 uni projects:
 1. [flask projects](https://github.com/oriodev/flask-projects): flask projects for a web dev 101 course.
