@@ -2,10 +2,9 @@
 🎃 intermediate react developer.</br>
 🍂 js/typescript, react/next.js, node.js/express, postgres/prisma.</br>
 🍄 final yr student @ university of birmingham; anthropology & computer science.</br>
-🍁 currently taking meta's **principles of UX design** and **intro to android development** courses.
 
 # 🌕 industry experience:
-1. frontend dev intern @ todaytix group (summer 2024).</br>
+1. frontend dev internship @ todaytix group (summer 2024).</br>
 
 # 🌖 personal projects:
 1. **[calcifer](https://github.com/oriodev/calcifer):** a next.js project with authentication and basic social capabilities. current wip, live deployment available to check out [here](https://www.calcifergame.com/).
