@@ -2,6 +2,7 @@
 🎃 intermediate react developer.</br>
 🍂 js/typescript, react/next.js, node.js/express, postgres/prisma.</br>
 🍄 final yr student @ university of birmingham; anthropology & computer science.</br>
+🔥 currently learning: backend development w/ go.
 
 # 🌕 industry experience:
 1. frontend dev internship @ todaytix group (summer 2024).</br>
