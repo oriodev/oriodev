@@ -1,7 +1,7 @@
 # 🌱 about me:
 🎃 intermediate react developer.</br>
 🍂 frontend: js/typescript, react/next.js. </br>
-🔥 backend: node/express, postgres/prisma. </br>
+🔥 backend: node/express/nest.js, postgres/prisma, mongo/mongoose. </br>
 🍄 final yr student @ university of birmingham; anthropology & computer science.</br>
 
 # 🌕 industry experience:
