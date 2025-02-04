@@ -8,8 +8,8 @@
 1. frontend dev internship @ todaytix group (summer 2024).</br>
 
 # 🌖 personal projects:
-1. [bakery delivery app](https://github.com/oriodev/oribebaking/tree/main): a next.js project designed in figma, with authentication (clerk) & payments (stripe).
-2. [calcifer](https://github.com/oriodev/calcifer): a next.js project with authentication and basic social capabilities. current wip, live deployment available to check out [here](https://www.calcifergame.com/).
+1. [album archive](https://github.com/oriodev/albumarchive): goodreads for your music! a fully fledged application with auth, social capabilities, and websockets (soon).
+2. [bakery delivery app](https://github.com/oriodev/oribebaking/tree/main): a next.js project designed in figma, with authentication (clerk) & payments (stripe).
 3. [bucket list app](https://github.com/oriodev/bucketlistapp): a next.js/shadcn project built in 5 hours.
 
 # 🌗 uni projects:
