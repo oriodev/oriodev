@@ -3,6 +3,7 @@
 🍂 frontend: js/typescript, react/next.js. </br>
 🔥 backend: node/express/nest.js, postgres/prisma, mongo/mongoose. </br>
 🍄 final yr student @ university of birmingham; anthropology & computer science.</br>
+⛰️ currently: completing 60 days of java !! </br>
 
 # 🌕 industry experience:
 1. frontend dev internship @ todaytix group (summer 2024).</br>
