@@ -17,13 +17,14 @@
 1. [flask projects](https://github.com/oriodev/flask-projects): flask projects for a web dev 101 course.
 
 # 🌑 self-learning:
-1. **[cs50 final project: musicbox](https://github.com/oriodev/musicbox)**: a python/flask project w/ spotify api.
-2. [cs50 submitted work](https://github.com/code50/93719767)
-3. [fullstack open parts 0-6](https://github.com/oriodev/fullstackopen)
-4. [the odin project: js rock, paper, scissors](https://github.com/oriodev/rockpaperscissors)
-5. [the odin project: js etch-a-sketch](https://github.com/oriodev/etch-a-sketch)
-6. [the odin project: js tic tac toe](https://github.com/oriodev/tictactoe)
-7. [the odin project: js calculator](https://github.com/oriodev/myveryfunctionalcalculator)
-8. [the odin project: html/css admin dashboard](https://github.com/oriodev/admindashboard)
-9. [the odin project: html/css form mockup](https://github.com/oriodev/mockupform)
-10. [the odin project: js/webpack restaurant webpage](https://github.com/oriodev/restaurantpage)
+1. [60 days of java: basic exercises](https://github.com/oriodev/java-stuff)
+2. **[cs50 final project: musicbox](https://github.com/oriodev/musicbox)**: a python/flask project w/ spotify api.
+3. [cs50 submitted work](https://github.com/code50/93719767)
+4. [fullstack open parts 0-6](https://github.com/oriodev/fullstackopen)
+5. [the odin project: js rock, paper, scissors](https://github.com/oriodev/rockpaperscissors)
+6. [the odin project: js etch-a-sketch](https://github.com/oriodev/etch-a-sketch)
+7. [the odin project: js tic tac toe](https://github.com/oriodev/tictactoe)
+8. [the odin project: js calculator](https://github.com/oriodev/myveryfunctionalcalculator)
+9. [the odin project: html/css admin dashboard](https://github.com/oriodev/admindashboard)
+10. [the odin project: html/css form mockup](https://github.com/oriodev/mockupform)
+11. [the odin project: js/webpack restaurant webpage](https://github.com/oriodev/restaurantpage)
