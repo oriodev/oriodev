@@ -1,22 +1,22 @@
-# 🌱 about me:
-🎃 intermediate react developer.</br>
+# 🌱 about me.
+🎃 fullstack developer.</br>
+🍄 final yr student @ university of birmingham; computer science & entrepenurship.</br>
 🍂 frontend: js/typescript, react/next.js. </br>
 🔥 backend: node/express/nest.js, postgres/prisma, mongo/mongoose. </br>
-🍄 final yr student @ university of birmingham; computer science & entrepenurship.</br>
 ⛰️ currently: completing 60 days of java !! </br>
 
-# 🌕 industry experience:
+# 🌕 industry experience.
 1. frontend dev internship @ todaytix group (summer 2024).</br>
 
-# 🌖 personal projects:
+# 🌖 personal projects.
 1. [album archive](https://github.com/oriodev/albumarchive): goodreads for your music! a fully fledged application with auth, social capabilities, and websockets (soon).
 2. [bakery delivery app](https://github.com/oriodev/oribebaking/tree/main): a next.js project designed in figma, with authentication (clerk) & payments (stripe).
 3. [bucket list app](https://github.com/oriodev/bucketlistapp): a next.js/shadcn project built in 5 hours.
 
-# 🌗 uni projects:
+# 🌗 uni projects.
 1. [flask projects](https://github.com/oriodev/flask-projects): flask projects for a web dev 101 course.
 
-# 🌑 self-learning:
+# 🌑 self-learning.
 1. [60 days of java: basic exercises](https://github.com/oriodev/java-stuff)
 2. **[cs50 final project: musicbox](https://github.com/oriodev/musicbox)**: a python/flask project w/ spotify api.
 3. [cs50 submitted work](https://github.com/code50/93719767)
