@@ -1,17 +1,41 @@
-# 🌱 about me.
+# ✨ about me.
 🎃 fullstack developer.</br>
 🍄 final yr student @ university of birmingham; computer science & entrepenurship.</br>
 🍂 frontend: js/typescript, react/next.js. </br>
 🔥 backend: node/express/nest.js, postgres/prisma, mongo/mongoose. </br>
-⛰️ currently: completing 60 days of java !! </br>
+⛰️ currently building [album archive](https://github.com/oriodev/albumarchive) and learning java springboot. </br>
 
 # 🌕 industry experience.
 frontend dev internship @ todaytix group (summer 2024).</br>
 
 # 🌖 personal projects.
-[album archive](https://github.com/oriodev/albumarchive): goodreads for your music! a fully fledged application with auth, social capabilities, and websockets (soon).</br>
-[bakery delivery app](https://github.com/oriodev/oribebaking/tree/main): a next.js project designed in figma, with authentication (clerk) & payments (stripe).</br>
-[bucket list app](https://github.com/oriodev/bucketlistapp): a next.js/shadcn project.</br>
+### 💿 album archive.</br>
+
+album archive is basically goodreads for your music! a fully fledged application with auth, social capabilities, and websockets for notifications and group chats.
+
+<p><i>built with turborepo, typescript, next.js, nest.js, mongodb, and socket.io.</i></p>
+
+[see here](https://github.com/oriodev/albumarchive)</br>
+<p></p>
+
+### 🧁 ori be baking.</br>
+
+<p>ori be baking is a bakery delivery web app with stripe integration for processing payments.</p>
+
+<p><i>built with next.js, clerk, stripe. designed in figma.</i></p>
+
+[see here](https://github.com/oriodev/oribebaking)</br>
+<p></p>
+
+### 🪣 bucket list app.</br>
+
+<p>the bucket list app is a simple CRUD application that lets you keep track of your goals.</p>
+
+<p><i>built with next.js and shadcn.</i></p>
+
+[see here](https://github.com/oriodev/bucketlistapp)</br>
+<p></p>
+
 
 # 🌗 uni projects.
 [flask projects](https://github.com/oriodev/flask-projects): flask projects for a web dev 101 course.</br>
