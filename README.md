@@ -3,7 +3,7 @@
 🍄 first class computer science & entrepenurship graduate.</br>
 🍂 frontend: js/typescript, react/next.js. </br>
 🔥 backend: node/express/nest.js, postgres/prisma, mongo/mongoose. </br>
-⛰️ currently building [album archive](https://github.com/oriodev/albumarchive) and learning java. </br>
+⛰️ currently building [hyperfixation app](https://github.com/oriodev/hyperfixationapp). </br>
 
 # 🌕 industry experience.
 frontend dev internship @ todaytix group (summer 2024).</br>
