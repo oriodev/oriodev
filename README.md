@@ -18,6 +18,15 @@ album archive is basically goodreads for your music! a fully fledged application
 [see here](https://github.com/oriodev/albumarchive)</br>
 <p></p>
 
+### ⭕ idle incrementer.</br>
+
+a fun circle-spinning idle incrementer game with upgrades and a prestige system.
+
+<p><i>built with next.js, local storage, and css animations.</i></p>
+
+[see here](https://github.com/oriodev/bored) and [play here](https://bored-sable.vercel.app/)</br>
+<p></p>
+
 ### 🧁 ori be baking.</br>
 
 <p>ori be baking is a bakery delivery web app with stripe integration for processing payments.</p>
